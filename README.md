@@ -13,5 +13,4 @@ behaviour and emulate a spoiler tag.
 I Just Tried This! I am still a learner am currently at the beginning stage of coding.
 
 ## Credits
-br>Soumyadeep Dey 
-br>Inspiration : ShuhaibNC
+# Soumyadeep Dey ⚡🔥
